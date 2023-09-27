@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import os.path
 import PySimpleGUI as sg
-CONTACT_INFO = "test@gmail.com"
+CONTACT_INFO = "blasty0ff[at]gmail.com"
 VESION_NUMBER = "r0.0.2"
 
 # GUI related
